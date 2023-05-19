@@ -1,4 +1,4 @@
-# # 🔥 Climbing Stairs - 알고리즘 문제(Leet Code)
+# # 🔥 Valid Sudoku - 알고리즘 문제(Leet Code)
 
 - <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/><br/>
 - <a href="https://leetcode.com/problems/valid-sudoku/" target="blank">Valid Sudoku 문제</a>
